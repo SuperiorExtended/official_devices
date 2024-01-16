@@ -1,0 +1,7 @@
+Device: POCO F1
+Device code name : beryllium
+Device maintainer: tejas101k
+
+Date - 11/12/2023
+=================
+- Inital Android 14 Build
