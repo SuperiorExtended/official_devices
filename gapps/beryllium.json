@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime":1702305616,
+        "datetime":1705712199,
         "filename": "SuperiorOS-EXTENDED-beryllium-GAPPS-20231211-1240.zip",
-        "id": "d86a8f69ecda3fc13b04b517ae0940756a6c3102b09dc544aa3c1c7edcab95a4",
+        "id": "e414b2b11e1025b80e358489106448347031cb112f4821b3d9e262c64bb6067d",
         "romtype": "GAPPS",
-        "size":1915702878,
-        "url": "https://master.dl.sourceforge.net/project/superiorextended/beryllium/gapps/SuperiorOS-EXTENDED-14-beryllium-GAPPS-20231211-1240.zip",
+        "size":1983304682,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/beryllium/gapps/SuperiorOS-EXTENDED-14-beryllium-GAPPS-20240120-0212.zip",
         "version": "Fourteen",
         "device_name": "POCO F1",
         "maintainer": "Tejas Singh"

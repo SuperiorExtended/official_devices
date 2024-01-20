@@ -1,0 +1,15 @@
+{
+    "response": [
+      {
+        "datetime":1705729179,
+        "filename": "SuperiorOS-EXTENDED-14-ginkgo-Vanilla-20240120-0543.zip",
+        "id": "64c8379ae7f92fc430a5f036994c2faabb6941ed7177a57b489e47e25335f803",
+        "romtype": "Vanilla",
+        "size":1332058654,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/ginkgo/vanilla/SuperiorOS-EXTENDED-14-ginkgo-Vanilla-20240120-0543.zip",
+        "version": "Fourteen",
+        "device_name": "Redmi Note 8/8T",
+        "maintainer": "Tejas Singh"
+      }
+    ]
+}
