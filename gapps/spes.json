@@ -1,13 +1,13 @@
 {
     "response": [
       {
-        "datetime":1705773995,
+        "datetime":1705831160,
         "filename": "SuperiorOS-EXTENDED-14-spes-GAPPS-20240121-0632.zip",
         "id": "fcd6ce6728d2610fc94b8d5130b58af3a86d93bde338d64859c496cd72079197",
-        "romtype": "GAPPS",
+        "romtype": "EXTENDED",
         "size":1552997992,
         "url": "https://master.dl.sourceforge.net/project/superiorextended/spes/SuperiorOS-EXTENDED-14-spes-GAPPS-20240121-0632.zip",
-        "version": "Fourteen",
+        "version": "Fourteen-Beta",
         "device_name": "Redmi Note 11",
         "maintainer": "JassiV & Sayan"
       }
