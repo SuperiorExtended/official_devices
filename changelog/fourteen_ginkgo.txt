@@ -1,0 +1,16 @@
+Device: Redmi Note 8/8T
+Device code name : ginkgo/willow
+Device maintainer: tejas101k
+
+Date - 20/01/2024
+=================
+• Add OTA updater
+• Add MiuiCamera
+• Add OnePlus Dolby
+• Fixed google voice recorder
+• Fix unusual vibrations while touching on fingerprint sensor
+• Improve Battery Backup
+
+Date - 11/12/2023
+=================
+• Inital Android 14 Build

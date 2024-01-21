@@ -1,0 +1,16 @@
+Device: POCO F4
+Device code name : munch
+Device maintainer: tejas101k
+
+Date - 20/01/2024
+=================
+• Fixed Nfc
+• Add OTA updater
+• Add OnePlus Dolby
+• Fixed google voice recorder
+• Improve 5g and dual band connectivity
+• Improve Battery Backup
+
+Date - 11/12/2023
+=================
+• Inital Android 14 Build

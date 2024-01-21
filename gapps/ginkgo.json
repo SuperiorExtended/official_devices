@@ -1,0 +1,15 @@
+{
+    "response": [
+      {
+        "datetime":1705736182,
+        "filename": "SuperiorOS-EXTENDED-14-ginkgo-GAPPS-20240120-0736.zip",
+        "id": "3088f30037a4e332aecf247ef0a5e575fc258b3ddd18e29a13cc5b3d7b3299b2",
+        "romtype": "EXTENDED",
+        "size":1872696936,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/ginkgo/gapps/SuperiorOS-EXTENDED-14-ginkgo-GAPPS-20240120-0736.zip",
+        "version": "Fourteen-Beta",
+        "device_name": "Redmi Note 8/8T",
+        "maintainer": "Tejas Singh"
+      }
+    ]
+}

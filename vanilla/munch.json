@@ -1,0 +1,15 @@
+{
+    "response": [
+      {
+        "datetime":1705738723,
+        "filename": "SuperiorOS-EXTENDED-14-munch-Vanilla-20240120-0823.zip",
+        "id": "3c5b562e35a922f5983febb799758f12b985f0a57a0ddc9be0a112172591146d",
+        "romtype": "EXTENDED",
+        "size":1489811119,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/munch/vanilla/SuperiorOS-EXTENDED-14-munch-Vanilla-20240120-0823.zip",
+        "version": "Fourteen-Beta",
+        "device_name": "POCO F4",
+        "maintainer": "Tejas Singh"
+      }
+    ]
+}

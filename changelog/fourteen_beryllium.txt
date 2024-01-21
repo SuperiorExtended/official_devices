@@ -1,0 +1,21 @@
+Device: POCO F1
+Device code name : beryllium
+Device maintainer: tejas101k
+
+Date - 20/01/2024
+=================
+• Fixed youtube video stuck/endless loop at end.
+• Fixed instagram reels or facebook or other apps video stuck at end.
+• Add OTA updater
+• Add MiuiCamera
+• Add OnePlus Dolby
+• Fixed google voice recorder
+• Fix unusual vibrations while touching on fingerprint sensor
+• Fix WiFi display (Screen Cast)
+• Fix FM Radio
+• Switch To AOSP Offline Charging
+• Fixed hyper orange night light
+
+Date - 11/12/2023
+=================
+• Inital Android 14 Build
