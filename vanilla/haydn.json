@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime":1705895496,
+      "filename": "SuperiorOS-EXTENDED-14-haydn-Vanilla-20240122-0530.zip",
+      "id": "f051d37c15f46590e2e5c7b3364f0ca976bb8ab30716d0d8d74ab0d76bebb64c",
+      "romtype": "EXTENDED",
+      "size":1841147537,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/haydn/vanilla/SuperiorOS-EXTENDED-14-haydn-Vanilla-20240122-0530.zip",
+      "version": "Fourteen-Beta",
+      "device_name": "Mi 11x pro/Redmi K40 Pro",
+      "maintainer": "Ashray Singh"
+    }
+  ]
+}
