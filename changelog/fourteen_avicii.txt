@@ -1,0 +1,10 @@
+Device: Oneplus Nord
+Device code name : avicii
+Device maintainer: Sipun Ku Mahanta
+
+Date - 25/01/2024
+=================
+• Inital Android 14 Build
+
+
+Note: Must flash above OOS 12 based firmware ROMS..
