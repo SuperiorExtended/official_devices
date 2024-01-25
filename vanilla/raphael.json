@@ -1,0 +1,15 @@
+{
+    "response": [
+      {
+        "datetime":1706112066,
+        "filename": "SuperiorOS-EXTENDED-14-raphael-Vanilla-20240125-2027.zip",
+        "id": "5dd9cf4e5733c7b4664eb167dd461de7bf15ba0bbf42f671848f2d9407cd16c5",
+        "romtype": "EXTENDED",
+        "size":1769679348,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/munch/vanilla/SuperiorOS-EXTENDED-14-raphael-Vanilla-20240125-2027.zip",
+        "version": "Fourteen-Beta",
+        "device_name": "Xiaomi Mi 9T Pro",
+        "maintainer": "pawelik001"
+      }
+    ]
+}

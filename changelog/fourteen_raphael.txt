@@ -1,0 +1,7 @@
+Device: Xiaomi Mi 9T Pro
+Device code name : raphael
+Device maintainer: pawelik001
+
+Date - 25/01/2024
+=================
+• Inital Android 14 Build
