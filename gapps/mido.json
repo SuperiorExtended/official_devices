@@ -1,13 +1,13 @@
 {
     "response": [
       {
-        "datetime":1706277411,
-        "filename": "SuperiorOS-EXTENDED-14-mido-GAPPS-20240128-1006.zip",
-        "id": "0b3a3cfe3082ba6a9ae80112b816f0775a4e3fe6f89e24430eb7e6f90cdd6b4f",
+        "datetime":1707331272,
+        "filename": "SuperiorExtended-OFFICIAL-14-mido-GAPPS-20240208-1144.zip",
+        "id": "ebefe37d6737e85bf50914f2b220f8ffcc708f192d7546393fc4f1aad2eb74d2",
         "romtype": "EXTENDED",
-        "size":1449132032,
-        "url": "https://sourceforge.net/projects/superiorextended/files/mido/gapps/SuperiorOS-EXTENDED-14-mido-GAPPS-20240128-1006.zip/download",
-        "version": "Fourteen-Beta",
+        "size":1488405134,
+        "url": "https://sourceforge.net/projects/superiorextended/files/mido/gapps/SuperiorExtended-OFFICIAL-14-mido-GAPPS-20240208-1144.zip/download",
+        "version": "Fourteen",
         "device_name": "Redmi Note 4/4X",
         "maintainer": "Sonu_Singh"
       }

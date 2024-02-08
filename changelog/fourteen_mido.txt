@@ -5,3 +5,14 @@ Device maintainer: Sonu_Singh
 Date - 28/01/2024
 =================
 • Inital Android 14 Official Build
+
+Date - 08/02/2024
+=================
+• Sync with latest source
+• Updated to ViPER4Android FX Redesign 6.1
+• Latest kernelSU, just install kernelSU apk
+• Shipped with Mi Calculator
+• Include Google dailer
+• Setup zram with fstab
+• Disable display refresh rate override
+• Some improvements and bug fixes
