@@ -1,13 +1,13 @@
 {
     "response": [
       {
-        "datetime":1707331272,
-        "filename": "SuperiorExtended-OFFICIAL-14-mido-VANILLA-20240208-1630.zip",
-        "id": "c2d18f06ba4237a7ca667369c393dfc00d7a7f4dcc4b304beef61a5e71fa179f",
-        "romtype": "EXTENDED",
-        "size":1138770983,
-        "url": "https://sourceforge.net/projects/superiorextended/files/mido/vanilla/SuperiorExtended-OFFICIAL-14-mido-VANILLA-20240208-1630.zip/download",
-        "version": "Fourteen",
+        "datetime":1707902443,
+        "filename": "SuperiorExtended-OFFICIAL-14-mido-VANILLA-20240214-1451.zip",
+        "id": "ed4c5ad580b0ac49d6e05e57fd339d1b99b2478a855c25b7bb4555a1666186de",
+        "romtype": "OFFICIAL",
+        "size":1138863736,
+        "url": "https://sourceforge.net/projects/superiorextended/files/mido/vanilla/SuperiorExtended-OFFICIAL-14-mido-VANILLA-20240214-1451.zip/download",
+        "version": "FOURTEEN",
         "device_name": "Redmi Note 4/4X",
         "maintainer": "Sonu_Singh"
       }
