@@ -1,15 +1,15 @@
 {
-    "response": [
-      {
-        "datetime":1705751368,
-        "filename": "SuperiorOS-EXTENDED-14-munch-GAPPS-20240120-1150.zip",
-        "id": "558d26a52d6c9ab3cb2fd9b84c740062290ec38c5a23e98ebe841af175fa12f7",
-        "romtype": "EXTENDED",
-        "size":1907408526,
-        "url": "https://master.dl.sourceforge.net/project/superiorextended/munch/gapps/SuperiorOS-EXTENDED-14-munch-GAPPS-20240120-1150.zip",
-        "version": "Fourteen-Beta",
-        "device_name": "POCO F4",
-        "maintainer": "Tejas Singh"
-      }
-    ]
+  "response": [
+    {
+      "datetime":1707754213,
+      "filename": "SuperiorExtended-OFFICIAL-14-munch-GAPPS-20240212-1614.zip",
+      "id": "540e005df264d4538412c7a136627942d8d0a70804dbcbc0abb3dce4f6eea606",
+      "romtype": "OFFICIAL",
+      "size":1759895316,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/munch/gapps/SuperiorExtended-OFFICIAL-14-munch-GAPPS-20240212-1614.zip",
+      "version": "FOURTEEN",
+      "device_name": "POCO F4",
+      "maintainer": "Tejas Singh"
+    }
+  ]
 }
