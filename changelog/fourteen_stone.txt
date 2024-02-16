@@ -1,0 +1,12 @@
+Device: Redmi Note 12 5G/Poco X5 5G/Redmi Note 12R
+Device code name : stone
+Device maintainer: Dr.Opto
+
+Date - 16/02/2024
+=================
+• Inital Android 14 Build
+• OTA is not enable now
+
+Note:
+- Use Aosp recovery to flashing rom is mandatory
+- Use Hyper Os Global/eea firmware is mandatory
