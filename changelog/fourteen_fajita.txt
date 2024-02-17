@@ -1,0 +1,10 @@
+Device: OnePlus 6T
+Device code name : fajita
+Device maintainer: Vikas Yaduvanshi (@Vikas_2_0)
+
+Date - 17/02/2024
+=================
+* OTA FIXUP
+* UPDATED KERNEL
+* Enbled  face unlock 
+* Enbled udfps
