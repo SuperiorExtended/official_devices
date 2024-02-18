@@ -2,6 +2,16 @@ Device: Redmi Note 8/8T
 Device code name : ginkgo/willow
 Device maintainer: tejas101k
 
+Date - 18/02/2024
+=================
+• Merged February 2024 Security Patch
+• Fixed expanded volume panel occasional disappear
+• Allow to disable notification/battery light
+• Add extended swipe actions
+• Fixed occasional bsod on selecting ui styles or lagging monet settings
+• Added QS Header Images support
+• Added more custom lock screen clocks and improved layout
+
 Date - 20/01/2024
 =================
 • Add OTA updater

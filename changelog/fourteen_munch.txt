@@ -2,6 +2,22 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: tejas101k
 
+Date - 18/02/2024
+=================
+• Fixed Leica front video and add more features
+• Add Spatial Audio
+• Improve Performance and overall ui latency 
+• Add per app thermal profiles
+• Introduce more refresh rate settings. Implement Per App Refresh Rate and Adaptive Refresh Rate
+• Add Auto HBM and DC Dimming
+• Add high touch polling rate and touch profiles for gaming
+• Fix screen cast crash
+• Add more colour modes and colour correction settings
+• Add battery friendly pocket mode (no longer breaks deep sleep)
+• Add MiSoundEnhancer (dirac)
+• Add Clear Speaker
+• Ship with N0 Kernel
+
 Date - 13/02/2024
 =================
 • Merged February 2024 Security Patch
