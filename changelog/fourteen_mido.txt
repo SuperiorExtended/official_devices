@@ -16,4 +16,9 @@ Date - 14/02/2024
 • Include Mi Calculator
 • Switch to zram with fstab
 • Disable display refresh rate override
-• fixed OTA
+
+Date - 20/02/2024
+=================
+• Synced with latest source
+• Enable fastcharge toggle
+• Fixed battery health not showing
