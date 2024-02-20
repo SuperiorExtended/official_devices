@@ -2,6 +2,16 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: tejas101k
 
+Date - 20/02/2024
+=================
+• Merged February 2024 Security Patch
+• Fixed expanded volume panel occasional disappear
+• Allow to disable notification/battery light
+• Add extended swipe actions
+• Fixed occasional bsod on selecting ui styles or lagging monet settings
+• Added QS Header Images support
+• Added more custom lock screen clocks and improved layout
+
 Date - 20/01/2024
 =================
 • Fixed youtube video stuck/endless loop at end.
