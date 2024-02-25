@@ -2,6 +2,12 @@ Device: POCO F4
 Device code name : munch
 Device maintainer: tejas101k
 
+Date - 25/02/2024
+=================
+• Hotfix for previous build (Fixed daxservice setComponentEnabledSetting stuck causing unusual battery drain/heat)
+• Fix few apps and games crashing upon open
+• Update dexpreopt props 
+
 Date - 18/02/2024
 =================
 • Fixed Leica front video and add more features
