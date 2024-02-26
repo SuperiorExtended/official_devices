@@ -1,0 +1,9 @@
+Device: Redmi Note 12 Pro 4g
+Device code name : sweet_k6a
+Device maintainer: MiDoNaSR
+
+Date - 26/02/2024
+=================
+• initial build
+• Fixed lag after reboot 
+• Added Spatial Audio
