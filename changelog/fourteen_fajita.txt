@@ -2,7 +2,7 @@ Device: Oneplus 6T
 Device code name : fajita
 Device maintainer: vikas Yaduvanshi
 
-Date - 28/02/2024
+Date - 04/03/2024
 =================
  Update  kernel based on lineage  latest changes
 
