@@ -1,0 +1,8 @@
+Device: Oneplus 6
+Device code name : fajita
+Device maintainer: vikas Yaduvanshi
+
+Date - 04/03/2024
+=================
+- Update  kernel based on lineage latest changes
+
