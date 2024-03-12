@@ -1,0 +1,12 @@
+Device: Xiaomi 11T Pro
+Device code name : vili
+Device maintainer: Jezzay97
+
+Date - 12/03/2024
+=================
+- Build official initial 
+- New Leica camera by omar
+- Update KernelSU
+- February patch
+- CTS certifying
+- Dolby Audio by default
