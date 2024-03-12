@@ -1,0 +1,28 @@
+Device: Redmi Note 11
+Device code name : spes
+Device maintainer: Jassi & Sayan
+
+Date - 11/03/2024
+=================
+• WiFi Calling Fixed
+• Fixed imsrcsd selinux denials
+• Enabled LZ4 compression for ramdisks
+• Enabled pre-rendering feature
+• Added props for smoother scrolling and better responsiveness
+• Added props to improve battery backup
+• Added entry for mounting sdcard in recovery
+• Enabled apk fs-verity
+• Enabled smooth display option
+• Updated Partitions values
+• Added Miui lecia camera
+
+Date - 21/01/2024
+=================
+• Add OTA updater
+• Add GCAM
+• Add Moto Clock
+
+Date - 13/01/2024
+=================
+• Inital Android 14 Build
+• January 2024 security patch
