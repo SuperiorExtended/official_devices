@@ -1,0 +1,16 @@
+{
+    "response": [
+      {
+        "datetime": 1708983523,
+        "filename": "SuperiorExtended-OFFICIAL-14-alioth-VANILLA-20240312-1359.zip",
+        "id": "1209bf6f8c8caeebc3275a1f253ca231cec664b4ab11e6287d9695cccf618651",
+        "romtype": "OFFICIAL",
+        "size": 1524955262,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/alioth/vanilla/SuperiorExtended-OFFICIAL-14-alioth-VANILLA-20240312-1359.zip",
+        "version": "FOURTEEN",
+        "device_name": "POCO F3 / Redmi K40 / Mi 11X",
+        "maintainer": "pawelik001"
+      }
+    ]
+  }
+  
