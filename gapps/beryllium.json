@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime":1708428159,
-        "filename": "SuperiorExtended-OFFICIAL-14-beryllium-GAPPS-20240220-1127.zip",
-        "id": "6a72a78af05fd99bd1ea37bae7ddc9ae41d63c49c065e2016710c812ffe18fdf",
+        "datetime":1709990092,
+        "filename": "SuperiorExtended-OFFICIAL-14-beryllium-GAPPS-20240314-0422.zip",
+        "id": "405f18b026d35689f785a3a909437bbb395e9b18f80455330cda3c90129275f6",
         "romtype": "OFFICIAL",
-        "size":1738780488,
-        "url": "https://master.dl.sourceforge.net/project/superiorextended/beryllium/gapps/SuperiorExtended-OFFICIAL-14-beryllium-GAPPS-20240220-1127.zip",
+        "size":1634113983,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/beryllium/gapps/SuperiorExtended-OFFICIAL-14-beryllium-GAPPS-20240314-0422.zip",
         "version": "FOURTEEN",
         "device_name": "POCO F1",
         "maintainer": "Tejas Singh"

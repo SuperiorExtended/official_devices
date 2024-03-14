@@ -2,6 +2,19 @@ Device: POCO F1
 Device code name : beryllium
 Device maintainer: tejas101k
 
+Date - 14/03/2024
+=================
+• Implemented OnePlus Style QS Panel
+• Added application downgrade feature
+• Added Switch Styles from Iconify
+• Added Optional Colored QS Notification icons
+• Added more clock BG chip styles
+• Added disabling QS on secure lockscreen
+• Allow disabling arrows for network traffic indicator
+• Fixed Realme Link crash
+• Forward port HD & wifi calling statusbar icons
+• Added more Weather Icon Pack
+
 Date - 20/02/2024
 =================
 • Merged February 2024 Security Patch
