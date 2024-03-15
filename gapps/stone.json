@@ -1,12 +1,14 @@
 {
   "response": [
     {
-      "datetime":1707998593,
-      "filename": "SuperiorExtended-OFFICIAL-14-stone-GAPPS-20240216-0757.zip",
-      "id": "5c33b7f2d9e715732170f5772359d49bcd1155bf6da210c89334c72267bd17fb",
+
+      "datetime":1710417385,
+      "filename": "SuperiorExtended-OFFICIAL-14-stone-GAPPS-20240314-1713.zip",
+      "id": "11bfef09c0756f9d55815b42010ba6858010a549072364c20565710dc2efafe1",
       "romtype": "OFFICIAL",
-      "size":1524894181,
-      "url": "https://sourceforge.net/projects/superiorextended/files/stone/gapps/SuperiorExtended-OFFICIAL-14-stone-GAPPS-20240216-0757.zip/download",
+      "size":1534067177,
+      "url": "https://sourceforge.net/projects/superiorextended/files/stone/gapps/SuperiorExtended-OFFICIAL-14-stone-GAPPS-20240314-1713.zip/download",
+
       "version": "FOURTEEN",
       "device_name": "Redmi Note 12 5G/Poco X5 5G",
       "maintainer": "Dr.Opto"
