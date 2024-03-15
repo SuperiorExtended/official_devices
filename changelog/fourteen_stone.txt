@@ -2,6 +2,25 @@ Device: Redmi Note 12 5G/Poco X5 5G/Redmi Note 12R
 Device code name : stone
 Device maintainer: Dr.Opto
 
+Date - 15/03/2024
+=================
+• Increase zram size to 75%
+• Fix screen record lag
+• Add props to improve battery backup
+• Disable blur on app launch
+• Add props for better signal
+• Set debug.sf.frame_rate_multiple_threshold to 60 by default
+• Enable all available vibration intensity
+• Fix screen recorder audio recording
+• Update screenrecorder to 4.2 and set framerate to 120
+• Show BatteryHealth in Battery section
+• Update rest of the blobs from Hyperos v14.0.6.0
+• Enable VoNR Calls support
+• Set low memory mode
+• Use 8Gb dalvik heap size config
+• Drop 90hz per app refreshrate support
+• OTA support is enable now
+
 Date - 16/02/2024
 =================
 • Inital Android 14 Build
