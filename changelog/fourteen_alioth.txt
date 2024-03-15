@@ -1,0 +1,7 @@
+Device: POCO F3 / Redmi K40 / Mi 11X
+Device code name : alioth
+Device maintainer: pawelik001
+
+Date - 14/03/2024
+=================
+• Inital Android 14 Build

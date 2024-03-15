@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": 1708983523,
+      "filename": "SuperiorExtended-OFFICIAL-14-alioth-GAPPS-20240312-1411.zip",
+      "id": "c780b790e9698849748b7bfe1c4ca2a1c6fbc5c1736029e005f29fd2d42ee0a7",
+      "romtype": "OFFICIAL",
+      "size": 1792625995,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/alioth/gapps/SuperiorExtended-OFFICIAL-14-alioth-GAPPS-20240312-1411.zip",
+      "version": "FOURTEEN",
+      "device_name": "POCO F3 / Redmi K40 / Mi 11X",
+      "maintainer": "pawelik001"
+    }
+  ]
+}

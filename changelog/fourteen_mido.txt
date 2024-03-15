@@ -17,3 +17,8 @@ Date - 14/02/2024
 • Switch to zram with fstab
 • Disable display refresh rate override
 • fixed OTA
+
+Date - 20/02/2024
+=================
+• Enable fastchare toggle
+• Fixed battery health not showing

@@ -1,13 +1,13 @@
 {
     "response": [
       {
-        "datetime":1705736182,
-        "filename": "SuperiorOS-EXTENDED-14-ginkgo-GAPPS-20240120-0736.zip",
-        "id": "3088f30037a4e332aecf247ef0a5e575fc258b3ddd18e29a13cc5b3d7b3299b2",
-        "romtype": "EXTENDED",
-        "size":1872696936,
-        "url": "https://master.dl.sourceforge.net/project/superiorextended/ginkgo/gapps/SuperiorOS-EXTENDED-14-ginkgo-GAPPS-20240120-0736.zip",
-        "version": "Fourteen-Beta",
+        "datetime":1709990092,
+        "filename": "SuperiorExtended-OFFICIAL-14-ginkgo-GAPPS-20240313-0638.zip",
+        "id": "7d6c11c21acc18c7f221fe3efef8bbbb137a46e24431583685b1968a104891c6",
+        "romtype": "OFFICIAL",
+        "size":1523727700,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/ginkgo/gapps/SuperiorExtended-OFFICIAL-14-ginkgo-GAPPS-20240313-0638.zip",
+        "version": "FOURTEEN",
         "device_name": "Redmi Note 8/8T",
         "maintainer": "Tejas Singh"
       }

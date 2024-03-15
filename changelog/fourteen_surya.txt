@@ -1,0 +1,13 @@
+Device: Poco X3/NFC
+Device code name : surya
+Device maintainer: Muichiro09
+
+Date - 28/02/2024
+=================
+• Inital Android 14 Build
+• OTA is not enable now
+
+Note:
+- Use TWRP latest 
+- Firmware included
+- Leica included

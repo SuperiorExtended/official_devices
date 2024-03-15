@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime":1705712099,
-      "filename": "SuperiorOS-EXTENDED-14-beryllium-Vanilla-20240120-0055.zip",
-      "id": "dad5f9a8b74bccd81695abe2e7451422c62f7339e5d230a388d85587d9b5b127",
-      "romtype": "EXTENDED",
-      "size":1442675701,
-      "url": "https://master.dl.sourceforge.net/project/superiorextended/beryllium/vanilla/SuperiorOS-EXTENDED-14-beryllium-Vanilla-20240120-0055.zip",
-      "version": "Fourteen-Beta",
+      "datetime":1709990092,
+      "filename": "SuperiorExtended-OFFICIAL-14-beryllium-VANILLA-20240313-1803.zip",
+      "id": "75470e867ca6105d0107055702c4412317392ec34f7b6b6bd7b3c70c97b5129d",
+      "romtype": "OFFICIAL",
+      "size":1345590416,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/beryllium/vanilla/SuperiorExtended-OFFICIAL-14-beryllium-VANILLA-20240313-1803.zip",
+      "version": "FOURTEEN",
       "device_name": "POCO F1",
       "maintainer": "Tejas Singh"
     }
