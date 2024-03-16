@@ -2,6 +2,19 @@ Device: Redmi Note 12 Pro 4g
 Device code name : sweet_k6a
 Device maintainer: MiDoNaSR
 
+Date - 15/03/2024
+=================
+• Add Dolby Support
+• Fixed the lag after everyreboot for good
+• Add overlay to improve signal reception
+• Remove Force triple frame buffers
+• Added RefreshRate Tile in qs
+• Extend spatial audio to speaker
+• Enable suspend to RAM
+• Speed profile services and wifi-service to reduce RAM and storage
+• Enable Freeform Multiwindow
+• Use QCOM implementation for audio effects
+
 Date - 26/02/2024
 =================
 • initial build
