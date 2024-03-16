@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime":1708867923,
-      "filename": "SuperiorExtended-OFFICIAL-14-munch-GAPPS-20240225-1335.zip",
-      "id": "8f4a1da636ceaedff1685fcda42c17c21b28702c3ab559f7c0a8b1b97d4c80ad",
+      "datetime":1709990092,
+      "filename": "SuperiorExtended-OFFICIAL-14-munch-GAPPS-20240313-0749.zip",
+      "id": "456cffe26974deacdf9101b28ca3e5a264c781c8a766e52b92be6eed33d4dc59",
       "romtype": "OFFICIAL",
-      "size":1755562226,
-      "url": "https://master.dl.sourceforge.net/project/superiorextended/munch/gapps/SuperiorExtended-OFFICIAL-14-munch-GAPPS-20240225-1335.zip",
+      "size":1760063740,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/munch/gapps/SuperiorExtended-OFFICIAL-14-munch-GAPPS-20240313-0749.zip",
       "version": "FOURTEEN",
       "device_name": "POCO F4",
       "maintainer": "Tejas Singh"

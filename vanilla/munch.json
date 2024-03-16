@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime":1708854747,
-        "filename": "SuperiorExtended-OFFICIAL-14-munch-VANILLA-20240225-0956.zip",
-        "id": "845183e5f7debd52165f377769021e1ca0f9c467f9acf8181ed6e3e4031b477f",
+        "datetime":1709990092,
+        "filename": "SuperiorExtended-OFFICIAL-14-munch-VANILLA-20240313-1557.zip",
+        "id": "a9453c4d5a412ef2bd1b9591125fcf4f619ced1b08ab8da18a16443c3057de32",
         "romtype": "OFFICIAL",
-        "size":1529839846,
-        "url": "https://master.dl.sourceforge.net/project/superiorextended/munch/vanilla/SuperiorExtended-OFFICIAL-14-munch-VANILLA-20240225-0956.zip",
+        "size":1535133608,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/munch/vanilla/SuperiorExtended-OFFICIAL-14-munch-VANILLA-20240313-1557.zip",
         "version": "FOURTEEN",
         "device_name": "POCO F4",
         "maintainer": "Tejas Singh"

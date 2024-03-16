@@ -1,0 +1,16 @@
+{
+    "response": [
+      {
+        "datetime": 1710103767,
+        "filename": "SuperiorExtended-OFFICIAL-14-spes-GAPPS-20240311-1703.zip",
+        "id": "8893c2da2e73c0a94665975cd8f122ffb6679230c9c78a252587231a831bf2f9",
+        "romtype": "OFFICIAL",
+        "size": 1752493810,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/spes/SuperiorExtended-OFFICIAL-14-spes-GAPPS-20240311-1703.zip",
+        "version": "FOURTEEN",
+        "device_name": "spes",
+        "maintainer": "JassiV & Sayan"
+      }
+    ]
+  }
+  
