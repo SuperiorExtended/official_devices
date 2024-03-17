@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": 1707323525,
+      "filename": "SuperiorExtended-OFFICIAL-14-citrus-GAPPS-20240317-1514.zip",
+      "id": "5b5a743b1c90d457f0ca866aa193c3330bde1b06c308c2bd4e03a1570f6ca1ce",
+      "romtype": "OFFICIAL",
+      "size": 1950778352,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/citrus/gapps/SuperiorExtended-OFFICIAL-14-citrus-GAPPS-20240317-1514.zip",
+      "version": "FOURTEEN",
+      "device_name": "POCO M3",
+      "maintainer": "pawelik001"
+    }
+  ]
+}
