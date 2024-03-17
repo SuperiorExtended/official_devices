@@ -1,0 +1,41 @@
+Device: Xiaomi Mi A2 Lite
+Device code name : daisy
+Device maintainer: pawelik001
+
+Date - 15/03/2024
+=================
+Device side:
+• Fixed safetynet
+• Battery optimisation
+• RAM optimisation
+• Now included gapps version
+
+Source side:
+- Fully rebased QPR1 source (Feb Patch)
+- Implemented OnePlus Style QS Panel
+- Added application downgrade feature
+- Added Switch Styles from Iconify
+- Added switch for media output controller
+- Added Optional Colored QS Notification icons
+- Added more clock BG chip styles
+- Added disabling QS on secure lockscreen
+- Added support for disable Network Traffic indicators
+- Fixed Realme Link crash
+- Implemented preference category UI
+- Fixed battery percentage font padding
+- Updated fingerprint for CTS pass
+- Forward port HD & wifi calling statusbar icons
+- Added new QS Header Image Section
+- Fixed memory management issues
+- Fixed some album-art not showing on Island view
+- Updated GamePropsUtils
+- Added more Weather Icon Pack
+- Added new Refresh rate Selector Page
+- Added background chip for memory info view
+- Fixed QS customizer background color
+- And many under the hood changes
+
+
+Date - 07/02/2024
+=================
+• Inital Android 14 Build
