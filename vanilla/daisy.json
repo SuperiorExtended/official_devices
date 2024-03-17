@@ -1,0 +1,15 @@
+{
+    "response": [
+      {
+        "datetime": 1707328161,
+        "filename": "SuperiorExtended-OFFICIAL-14-daisy-VANILLA-20240314-1532.zip",
+        "id": "7099dcb39c8e39d0a0c9be0f835fe2aef7a05d6a0bbc9a838e0481729b732420",
+        "romtype": "OFFICIAL",
+        "size": 944855693,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/daisy/vanilla/SuperiorExtended-OFFICIAL-14-daisy-VANILLA-20240314-1532.zip",
+        "version": "FOURTEEN",
+        "device_name": "Mi A2 Lite",
+        "maintainer": "pawelik001"
+      }
+    ]
+}

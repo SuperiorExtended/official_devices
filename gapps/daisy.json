@@ -1,0 +1,15 @@
+{
+    "response": [
+      {
+        "datetime": 1707328161,
+        "filename": "SuperiorExtended-OFFICIAL-14-daisy-GAPPS-20240314-1433.zip",
+        "id": "decb07c73eafdf9378393e6535fc1ef62d42a262034d41aa28f42a1d64517a70",
+        "romtype": "OFFICIAL",
+        "size": 1103299657,
+        "url": "https://master.dl.sourceforge.net/project/superiorextended/daisy/gapps/SuperiorExtended-OFFICIAL-14-daisy-GAPPS-20240314-1433.zip",
+        "version": "FOURTEEN",
+        "device_name": "Mi A2 Lite",
+        "maintainer": "pawelik001"
+      }
+    ]
+  }
