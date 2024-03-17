@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": 1707323525,
+      "filename": "SuperiorExtended-OFFICIAL-14-citrus-VANILLA-20240317-1225.zip",
+      "id": "95c7da197cba400bc8fb4bdedfcb61be1d569eabca46c3a3c8f1bd56f69377fc",
+      "romtype": "OFFICIAL",
+      "size": 1612947163,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/citrus/vanilla/SuperiorExtended-OFFICIAL-14-citrus-VANILLA-20240317-1225.zip",
+      "version": "FOURTEEN",
+      "device_name": "POCO M3",
+      "maintainer": "pawelik001"
+    }
+  ]
+}
