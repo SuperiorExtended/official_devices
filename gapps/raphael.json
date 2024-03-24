@@ -1,15 +1,15 @@
 {
-    "response": [
-      {
-        "datetime":1706159273,
-        "filename": "SuperiorOS-EXTENDED-14-raphael-GAPPS-20240125-1735.zip",
-        "id": "c7af468947ff53632dce3ff09c19fb0c2c09559dfb3b5038496a43b2abf7b69e",
-        "romtype": "EXTENDED",
-        "size":2096208699,
-        "url": "https://master.dl.sourceforge.net/project/superiorextended/raphael/vanilla/SuperiorOS-EXTENDED-14-raphael-GAPPS-20240125-1735.zip",
-        "version": "Fourteen-Beta",
-        "device_name": "Xiaomi Mi 9T Pro",
-        "maintainer": "pawelik001"
-      }
-    ]
+  "response": [
+    {
+      "datetime": 1710073594,
+      "filename": "SuperiorExtended-OFFICIAL-14-raphael-GAPPS-20240323-1821.zip",
+      "id": "ce651ff35177cd393f17b702b02c76085ef0b334838e09cde01669d651084ccd",
+      "romtype": "OFFICIAL",
+      "size": 2172287963,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/raphael/gapps/SuperiorExtended-OFFICIAL-14-raphael-GAPPS-20240323-1821.zip",
+      "version": "FOURTEEN",
+      "device_name": "Xiaomi Mi 9T Pro",
+      "maintainer": "pawelik001"
+    }
+  ]
 }

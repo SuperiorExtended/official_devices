@@ -1,15 +1,15 @@
 {
-    "response": [
-      {
-        "datetime":1706112066,
-        "filename": "SuperiorOS-EXTENDED-14-raphael-Vanilla-20240125-2027.zip",
-        "id": "5dd9cf4e5733c7b4664eb167dd461de7bf15ba0bbf42f671848f2d9407cd16c5",
-        "romtype": "EXTENDED",
-        "size":1769679348,
-        "url": "https://master.dl.sourceforge.net/project/superiorextended/raphael/vanilla/SuperiorOS-EXTENDED-14-raphael-Vanilla-20240125-2027.zip",
-        "version": "Fourteen-Beta",
-        "device_name": "Xiaomi Mi 9T Pro",
-        "maintainer": "pawelik001"
-      }
-    ]
+  "response": [
+    {
+      "datetime": 1710073594,
+      "filename": "SuperiorExtended-OFFICIAL-14-raphael-VANILLA-20240323-1845.zip",
+      "id": "2c8beb0972fee17f20fdd5992d27be8a12d0f41f2503609f42d9dc77db303f91",
+      "romtype": "OFFICIAL",
+      "size": 1834248504,
+      "url": "https://master.dl.sourceforge.net/project/superiorextended/raphael/vanilla/SuperiorExtended-OFFICIAL-14-raphael-VANILLA-20240323-1845.zip",
+      "version": "FOURTEEN",
+      "device_name": "Xiaomi Mi 9T Pro",
+      "maintainer": "pawelik001"
+    }
+  ]
 }
